@@ -11,25 +11,25 @@
         {
             "src": "https://1.bp.blogspot.com/-aO4CJIUy54Q/YI4vVPWLJUI/AAAAAAAAAnk/kqJIg6Zxmuc9EySybmKP0LUL9fZkn3l_gCLcBGAsYHQ/s192/android-chrome-192x192.png",
             "sizes": "192x192",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjq8WcO6NUYZNZDdHMsMi_SPUArekURUCwIMyESeVavrymfcjyqvAbNbxgPfXsEe77uw87ZjWmzv2rTaHZtZktuVMrBQBUvewpukeT3HdfWj4naz4a3wNx7cjaK1HDoJFTA8pGTBQx3DXktKWw3Pn517ifoDR97q4bADMQO3jDJlqIIEClI44jxqHHmiA=s256",
             "sizes": "256x256",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any maskable"
         },
         {
             "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjcC80SnauVp2sb0NmrdY7ypWp5AiLkjsmqu-x1WOonbWLMQcd0DUapzbaB6WERLEbIs3bKVgKC5nnyTwkCuM1QlbZcYZOnEDZIRam1HYlTBdIG5YTNo6TOLZ8oGm4voKlb6ccJPrKqY_g1lcpuHTBfyl7F1T0iUxK-MT5_YV3Uu8kqgfqzDUWGf-IIlg=s384",
             "sizes": "384x384",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any maskable"
         },
         {
             "src": "https://1.bp.blogspot.com/-mcadEiLvXd4/YI4vVB_52dI/AAAAAAAAAnc/3OvL348M9moW1J7WiBh6dRzOGXSa-_E8wCLcBGAsYHQ/s512/android-chrome-512x512.png",
             "sizes": "512x512",
-            "type": "image/png"
+            "type": "image/png",
             "purpose": "any maskable"
         }
     ]
