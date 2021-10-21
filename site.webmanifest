@@ -1,8 +1,8 @@
 {
     "theme_color": "#bababa",
     "background_color": "#ffffff",
-    "display": "browser",
-    "scope": "/",
+    "display": "standalone",
+    "prefer_related_applications": false,
     "start_url": "https://www.buspins.site",
     "name": "BusPins",
     "short_name": "BusPins",
@@ -12,11 +12,13 @@
             "src": "https://1.bp.blogspot.com/-aO4CJIUy54Q/YI4vVPWLJUI/AAAAAAAAAnk/kqJIg6Zxmuc9EySybmKP0LUL9fZkn3l_gCLcBGAsYHQ/s192/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png",
+            "purpose": "any maskable"
         },        
         {
             "src": "https://1.bp.blogspot.com/-mcadEiLvXd4/YI4vVB_52dI/AAAAAAAAAnc/3OvL348M9moW1J7WiBh6dRzOGXSa-_E8wCLcBGAsYHQ/s512/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
+            "purpose": "any maskable"
         }
     ]
 }
