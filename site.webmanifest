@@ -2,7 +2,6 @@
     "theme_color": "#bababa",
     "background_color": "#ffffff",
     "display": "standalone",
-    "prefer_related_applications": false,
     "start_url": "https://www.buspins.site",
     "name": "BusPins",
     "short_name": "BusPins",
