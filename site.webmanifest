@@ -32,4 +32,5 @@
             "purpose": "any maskable"
         }
     ]
+    "shortcuts":[{"name":"BusPins","short_name":"BusPins","description":"BusPins","url":"/","icons":[{"src":"https://1.bp.blogspot.com/-aO4CJIUy54Q/YI4vVPWLJUI/AAAAAAAAAnk/kqJIg6Zxmuc9EySybmKP0LUL9fZkn3l_gCLcBGAsYHQ/s192/android-chrome-192x192.png","sizes":"192x192"}]}]
 }
